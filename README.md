@@ -1,6 +1,6 @@
 Desktop installer for Pardus ANKA.
 =======
 
-<h1>İnstall</h1>
+<h2>İnstall</h2>
 
 fd
