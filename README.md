@@ -1,5 +1,5 @@
 Desktop installer for Pardus ANKA.
 =======
 
-<h2>İnstall</h2>
+<h3>install</h3>
 sudo pisi it pelikan
