@@ -1,0 +1,11 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+#
+# Licensed under GPL v3
+# Copyright 2013, Onur ASLAN <aslanon> <slnnronur@gmail.com>
+#
+# Please read the COPYING file.
+#
+
+from pelikan import main as pelikan
+pelikan.main()

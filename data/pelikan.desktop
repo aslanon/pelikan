@@ -1,0 +1,20 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=System
+Comment[tr]=Pelikan masaüstü kurucusu
+Comment=Pelikan the founder of the desktop
+Encoding=UTF-8
+Exec=pelikan
+GenericName[tr]=Masaüstü yöneticileri kurucusu
+GenericName=The founder of desktop managers
+Icon=/usr/share/pixmaps/pelikan.png
+Name[tr]=Pelikan
+Name=Pelikan
+StartupNotify=true
+Terminal=false
+TerminalOptions=\s--noclose
+Type=Application
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+GenericName[tr_TR.UTF-8]=Pelikan
+Name[tr_TR]=Pelikan
