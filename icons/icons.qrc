@@ -1,0 +1,57 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>b32.png</file>
+    <file>light-bg2.png</file>
+    <file>loading.gif</file>
+    <file>nexttitle.png</file>
+    <file>dialog-information.png</file>
+    <file>dialog-password.png</file>
+    <file>white-arrow-down.gif</file>
+    <file>pelikan1.png</file>
+    <file>package-manager-64x64.png</file>
+    <file>applications-internet.png</file>
+    <file>applications-other.png</file>
+    <file>arrow-left.png</file>
+    <file>arrow-right.png</file>
+    <file>cross.png</file>
+    <file>pelikan.png</file>
+    <file>dialog-ok-apply.png</file>
+    <file>preferences-system.png</file>
+    <file>system-help.png</file>
+    <file>task-accepted.png</file>
+    <file>tick.png</file>
+    <file>unchecked_checked.png</file>
+    <file>unchecked_checked_hover.png</file>
+    <file>user-away.png</file>
+  </qresource>
+  <qresource prefix="desktops">
+    <file>Desktops/xfce.png</file>
+    <file>Desktops/razor-qt.png</file>
+    <file>Desktops/mate.png</file>
+    <file>Desktops/lxde.png</file>
+    <file>Desktops/gnome.png</file>
+    <file>Desktops/fluxbox.png</file>
+    <file>Desktops/e17.png</file>
+    <file>Desktops/cinnamon.png</file>
+  </qresource>
+  <qresource prefix="screenshots">
+    <file>Screenshots/Cinnamon.png</file>
+    <file>Screenshots/E17.png</file>
+    <file>Screenshots/Fluxbox.png</file>
+    <file>Screenshots/Gnome.png</file>
+    <file>Screenshots/Lxde.png</file>
+    <file>Screenshots/Mate.png</file>
+    <file>Screenshots/Razor-qt.png</file>
+    <file>Screenshots/Xfce.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>Logo/cinnamon.png</file>
+    <file>Logo/enlightenment.png</file>
+    <file>Logo/fluxbox.png</file>
+    <file>Logo/gnome.png</file>
+    <file>Logo/lxde.png</file>
+    <file>Logo/mate.png</file>
+    <file>Logo/razor-qt.png</file>
+    <file>Logo/xfce.png</file>
+  </qresource>
+</RCC>
