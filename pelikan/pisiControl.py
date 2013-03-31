@@ -9,7 +9,6 @@
 
 import pisi.errors
 import pisi
-import os
 import fcntl
 import pisi.context as ctx
 
